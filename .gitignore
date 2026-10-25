@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+
+# College Synopsis / Documentation
+docs/
+
+# Distribution Zips & Instructions
+assignment/
+*.zip
+INSTRUCTIONS_*.txt
+WEEK_1_SUMMARY.txt
